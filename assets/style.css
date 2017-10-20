@@ -17,6 +17,8 @@ h1 {
 	margin:  0;
 	margin-bottom: 20px;
 	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h2 {
@@ -25,6 +27,11 @@ h2 {
 
 a {
 	color: #d21034;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
 }
 
 #main-bio {
